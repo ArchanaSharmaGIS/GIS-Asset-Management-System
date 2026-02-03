@@ -57,13 +57,12 @@ This application allows users to manage spatial assets, track their condition, a
 
 ## 📸 Screenshots
 
-### Dashboard View
 ![Dashboard](dash.png)
 
-### Asset Mapping
+
 ![Map](main_view.png)
 
-### Analytics Charts
+
 ![Charts](edit.png)
 
 ---
